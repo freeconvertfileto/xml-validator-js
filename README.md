@@ -2,7 +2,7 @@
 
 Check XML well-formedness instantly using the native DOMParser API and report element count or the first parse error, entirely in the browser.
 
-**Live Demo:** https://file-converter-free.com/en/developer-tools/xml-validator
+**Live Demo:** https://file-converter-free.com/en/developer-tools/xml-validator-online
 
 ## How It Works
 
